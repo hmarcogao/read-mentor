@@ -1,0 +1,4 @@
+interface:
+  display_name: "读书导师"
+  short_description: "用主动回忆、追问、复习和跨书连接帮助真正读懂一本书"
+  default_prompt: "使用 $read-mentor 带我开始阅读一本书，并建立可持续复习的阅读档案。"

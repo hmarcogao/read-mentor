@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+read-mentor-data/
+!examples/read-mentor-data/
